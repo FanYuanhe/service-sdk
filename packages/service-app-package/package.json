@@ -1,0 +1,24 @@
+{
+  "name": "service-app-package",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fanyuanhe <fanyuanhe@baidu.com>",
+  "homepage": "",
+  "license": "ISC",
+  "private": true,
+  "main": "lib/service-app-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "service-tools-package": "^0.0.0",
+    "service-ui-package": "^0.0.0"
+  }
+}

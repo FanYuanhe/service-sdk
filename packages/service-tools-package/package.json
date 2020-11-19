@@ -1,0 +1,19 @@
+{
+  "name": "service-tools-package",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fanyuanhe <fanyuanhe@baidu.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/service-tools-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
