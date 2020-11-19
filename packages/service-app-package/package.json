@@ -1,6 +1,6 @@
 {
   "name": "service-app-package",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "fanyuanhe <fanyuanhe@baidu.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "service-tools-package": "^0.0.0",
-    "service-ui-package": "^0.0.0"
+    "service-tools-package": "^0.0.1",
+    "service-ui-package": "^0.0.1"
   }
 }
